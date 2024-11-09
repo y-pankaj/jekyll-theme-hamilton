@@ -2,6 +2,7 @@
 layout: post
 title: On writing
 tags: [Notes]
+show_excerpts: false
 ---
 
 ## My journey so far
@@ -11,4 +12,4 @@ I’d find myself wondering how to make life better—what new routines should I
 
 
 ## Writing to connect and inspire
-Once in a month while scrolling through the internet I find an article which really pushes the boundaries of my thinking. That’s the kind of person I want to become—a writer who gets people to think differently. I want to blog, some posts might be good, some might be not-so-great. But if sharing my journey can inspire even one person, then putting my thoughts out there would be totally worth it.
+Once in a month while scrolling through the internet I find an article which really pushes the boundaries of my thinking. That’s the kind of person I want to become—a writer who gets people to think differently. I want to blog, some posts might be good, some might be not-so-great. But if sharing my journey can inspire even one person, then putting my thoughts out there would be totally worth it. All the inspiration aside, my articles are probably going to be shitty and very random for atleast a couple of years-so read it at your own risk.

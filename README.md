@@ -184,6 +184,9 @@ You can also customize a new skin, for example, a skin called `solarized`. You n
 
 If you want to create more CSS styles in your site, creating a file `_sass/hamilton/custom-styles.scss`, and putting your code in there, Hamilton would automatically refer to them.
 
+### Build
+bundle exec jekyll serve
+
 ## License
 
 The theme is available as open source under the terms of the [MIT License](LICENSE.txt).

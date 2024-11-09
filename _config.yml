@@ -1,5 +1,5 @@
-title: Pankaj
-description: Dumping space for my learnings, thoughts and experiences.
+title: Dumping grounds
+description: 
 author: Pankaj Yadav
 avatar: /logo.jpeg
 # email:
@@ -18,7 +18,7 @@ google_analytics: G-BXS3XY0WT3
 
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
 #
-# disqus:
+disqus: disqus_evqWpsCnFW
 
 # Jekyll
 # ======
@@ -29,14 +29,14 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: Guruji_Panks
-  card: summary
+# twitter:
+#   username: Guruji_Panks
+#   card: summary
 logo: logo.jpeg
 social:
   name: Pankaj Yadav
   links:
-    - https://twitter.com/Guruji_Panks
+    # - https://twitter.com/Guruji_Panks
     - https://github.com/y-pankaj
 google_site_verification: PzRp9o3IMUcwRZYOchKpJK8tG8AwWCClyBBOofOz5ak
 lang: en
