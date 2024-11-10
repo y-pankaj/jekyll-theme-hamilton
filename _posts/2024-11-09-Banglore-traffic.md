@@ -3,6 +3,7 @@ layout: post
 title: Surviving Banglore traffic - Guide for the Bravehearted (and Delusional)
 tags: [humour]
 show_excerpts: false
+comments: true
 ---
 
 Greetings, brave souls of Bangalore.

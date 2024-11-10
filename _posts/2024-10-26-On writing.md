@@ -3,6 +3,7 @@ layout: post
 title: On Writing
 tags: [Notes]
 show_excerpts: false
+comments: true
 ---
 
 ## My Journey So Far

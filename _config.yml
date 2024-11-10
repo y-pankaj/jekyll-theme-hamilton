@@ -2,7 +2,9 @@ title: Dumping grounds
 description: 
 author: Pankaj Yadav
 avatar: /logo.jpeg
-# email:
+subscribe: false
+
+# email: 
 
 plugins:
   - jekyll-seo-tag
@@ -18,7 +20,7 @@ google_analytics: G-BXS3XY0WT3
 
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
 #
-disqus: disqus_evqWpsCnFW
+disqus: y-pankaj
 
 # Jekyll
 # ======
@@ -34,7 +36,7 @@ exclude:
 #   card: summary
 logo: logo.jpeg
 social:
-  name: Pankaj Yadav
+  # name: Pankaj Yadav
   links:
     # - https://twitter.com/Guruji_Panks
     - https://github.com/y-pankaj
